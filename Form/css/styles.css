@@ -1,0 +1,29 @@
+*{
+    background-color: lavender;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: 25pt;
+    text-align: center;
+    /* font-size: 11pt;
+   margin-left: 0.25cm; */
+}
+
+#enviar{
+    /* font-size: 6pt; */
+    /* transform: scale(2); */
+    background-color: rgb(24, 203, 248);
+    color: white;
+    border-radius: 15px;
+    border-width: 0px;
+    height: 30px;
+    width: 70px; 
+}
+
+input[type="text"]{
+    background-color: white;
+    height: 40px;
+    width: 500px;
+    border-width: 0px;
+    border-radius: 15px;
+}
+
+
